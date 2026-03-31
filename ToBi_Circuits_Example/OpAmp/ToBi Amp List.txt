@@ -1,0 +1,61 @@
+ToBi Amp List
+
+run378
+27.9dB
+1.39 MHz
+17.9 mW
+21 degree
+
+run138
+27.9dB
+886 kHz
+13.7 mW
+20 degree
+
+run344
+34.6dB
+540 kHz
+8.4 mW
+17 degree
+
+run218
+33.9 dB
+610 kHz
+20.5 mW
+19 degree
+
+run655
+25.5 dB
+1.92 MHz
+35.3 mW
+19 degree
+
+run289
+27.3 dB
+974 kHz
+13.9 mW
+20 degree
+
+run174
+27.8 dB
+1.4 MHz
+18 mW
+20 degree
+
+run997
+35.3 dB
+32 kHz
+16.3 mW
+91 degree
+
+run668
+29.0 dB
+1.1 MHz
+36 mW
+25 degree
+
+run 672
+28.6 dB
+721 kHz
+34.6mW
+27 degree
